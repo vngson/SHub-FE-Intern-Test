@@ -1,0 +1,16 @@
+.api-data-page{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    align-items: center;
+    width: 100vw;
+}
+
+.api-data-page-title{
+    font-size: 2rem;
+}
+
+.api-data-page-table{
+    width: 100%;
+    padding: 0 50rem;
+}
